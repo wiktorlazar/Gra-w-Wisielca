@@ -1,0 +1,12 @@
+# ninja log v6
+2	773	1729156438767538212	CMakeFiles/Gra_w_wisielca_Wiktor_Lazar.dir/main.cpp.o	825b74e55bd6e6fa
+3	833	1729156438768715128	CMakeFiles/Gra_w_wisielca_Wiktor_Lazar.dir/utils.cpp.o	f4fe66e4c928ec44
+3	879	1729156438768280503	CMakeFiles/Gra_w_wisielca_Wiktor_Lazar.dir/game.cpp.o	3361e45325af2ee8
+879	1006	1729156439644813954	Gra_w_wisielca_Wiktor_Lazar	52daed75bce731bc
+8	796	1729156730206642144	CMakeFiles/Gra_w_wisielca_Wiktor_Lazar.dir/utils.cpp.o	f4fe66e4c928ec44
+796	923	1729156730994246143	Gra_w_wisielca_Wiktor_Lazar	52daed75bce731bc
+7	794	1729157055788674961	CMakeFiles/Gra_w_wisielca_Wiktor_Lazar.dir/utils.cpp.o	f4fe66e4c928ec44
+794	921	1729157056575389294	Gra_w_wisielca_Wiktor_Lazar	52daed75bce731bc
+7	850	1729157585810348664	CMakeFiles/Gra_w_wisielca_Wiktor_Lazar.dir/utils.cpp.o	f4fe66e4c928ec44
+8	581	1729157610323152566	CMakeFiles/Gra_w_wisielca_Wiktor_Lazar.dir/utils.cpp.o	f4fe66e4c928ec44
+581	683	1729157610896353618	Gra_w_wisielca_Wiktor_Lazar	52daed75bce731bc

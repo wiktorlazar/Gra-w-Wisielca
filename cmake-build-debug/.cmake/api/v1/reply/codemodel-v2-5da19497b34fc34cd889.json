@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Gra_w_wisielca_Wiktor_Lazar",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Gra_w_wisielca_Wiktor_Lazar::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Gra_w_wisielca_Wiktor_Lazar-Debug-d2d018121cc1a493c851.json",
+					"name" : "Gra_w_wisielca_Wiktor_Lazar",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/wiktorlazar/CLionProjects/Gra-w-wisielca-Wiktor-Lazar/cmake-build-debug",
+		"source" : "/Users/wiktorlazar/CLionProjects/Gra-w-wisielca-Wiktor-Lazar"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
