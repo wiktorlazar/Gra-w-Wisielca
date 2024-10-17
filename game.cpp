@@ -88,7 +88,7 @@ int chooseDifficulty() {
 }
 
 void showRanking() {
-    ifstream file("scores.txt");
+    ifstream file("/Users/wiktorlazar/CLionProjects/Gra-w-wisielca-Wiktor-Lazar/scores.txt");
     if (!file) {
         cout << "Ranking jest pusty." << endl;
         return;
